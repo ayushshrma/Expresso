@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-In this capstone project, you will build all of the routing and database logic for an internal tool for a coffee shop called Expresso.
+In this  project,  build all of the routing and database logic for an internal tool for a coffee shop called Expresso.
 
 The Expresso internal tool should allow users to:
 - Create, view, update, and delete menus
@@ -24,8 +24,6 @@ To view your local version of the site, open **index.html** in Google Chrome.
 To complete this project, you will need to create the database tables and API routes specified below.
 
 To test this functionality you can run the testing suite and interact with the API via the provided front-end. If you want more data to interact with in the front-end, you can run the **seed.js** file to add data to your database.
-
-We've provided an empty **migration.js** file for you to write table creation logic in.
 
 In order for the tests and provided front-end to run properly, you will need to make sure to:
 - Create and export your Express app from a root-level file called **server.js**
