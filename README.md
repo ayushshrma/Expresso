@@ -11,14 +11,6 @@ The Expresso internal tool should allow users to:
 - Create, view, update, and delete employee's timesheets
 
 
-
-
-## How To Begin
-
-After downloading the zip folder, double click it to uncompress it and access the contents of this project.
-
-To view your local version of the site, open **index.html** in Google Chrome.
-
 ## Implementation Details
 
 To complete this project, you will need to create the database tables and API routes specified below.
