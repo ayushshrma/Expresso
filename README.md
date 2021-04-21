@@ -133,17 +133,3 @@ In order for the tests and provided front-end to run properly, you will need to 
   - If a menu with the supplied menu ID doesn't exist, returns a 404 response
   - If a menu item with the supplied menu item ID doesn't exist, returns a 404 response
 
-
-## Testing
-
-
-To run these tests, first, open the root project directory in your terminal. Then run `npm install` to install
-all necessary testing dependencies (if you haven't already).
-Finally, run `npm test`. You will see a list of tests that ran with information
-about whether or not each test passed. After this list, you will see more specific output
-about why each failing test failed.
-
-As you implement functionality, run the tests to
-ensure you are creating correctly named variables and functions that return the proper values.
-The tests will additionally help you identify edge cases that you may not have anticipated
-when first writing the functions.
